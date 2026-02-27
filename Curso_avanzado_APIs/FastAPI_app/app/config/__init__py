@@ -1,0 +1,5 @@
+
+from sqlalchemy.orm import declarative_base
+
+# Definir la base para todos los modelos
+Base = declarative_base()
