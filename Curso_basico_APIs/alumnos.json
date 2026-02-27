@@ -1,0 +1,13 @@
+{
+  "alumnos": [
+    {
+      "nombre": "Juan Pérez", "edad": 20,"correo": "juan.perez@example.com"
+    },
+    {
+      "nombre": "Ana Gómez","edad": 22,"correo": "ana.gomez@example.com"
+    },
+    {
+      "nombre": "Carlos López","edad": 19,"correo": "carlos.lopez@example.com"
+    }
+  ]
+}
